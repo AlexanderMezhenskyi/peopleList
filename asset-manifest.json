@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peopleList/static/css/main.33c57249.chunk.css",
+    "main.js": "/peopleList/static/js/main.5c176910.chunk.js",
+    "main.js.map": "/peopleList/static/js/main.5c176910.chunk.js.map",
+    "runtime~main.js": "/peopleList/static/js/runtime~main.f275de2c.js",
+    "runtime~main.js.map": "/peopleList/static/js/runtime~main.f275de2c.js.map",
+    "static/js/2.57b02338.chunk.js": "/peopleList/static/js/2.57b02338.chunk.js",
+    "static/js/2.57b02338.chunk.js.map": "/peopleList/static/js/2.57b02338.chunk.js.map",
+    "index.html": "/peopleList/index.html",
+    "precache-manifest.4301be6dd10f954cb05e89290864ceb3.js": "/peopleList/precache-manifest.4301be6dd10f954cb05e89290864ceb3.js",
+    "service-worker.js": "/peopleList/service-worker.js",
+    "static/css/main.33c57249.chunk.css.map": "/peopleList/static/css/main.33c57249.chunk.css.map"
+  }
+}
